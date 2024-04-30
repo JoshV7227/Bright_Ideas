@@ -1,0 +1,110 @@
+@charset "UTF-8";
+
+
+#header{
+	
+	display: flex;
+	justify-content: right;
+	padding: 10px;
+
+}
+
+.headerLinks{
+	
+	color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+body {
+	
+	background-color: lightblue;
+}
+
+h1{
+	
+	color: deeppink;
+	font-family:"Anybody";
+}
+
+h2{
+	
+	font-family:"Anybody";
+	color: white;
+	font-weight: bold;
+}
+
+#userName {
+	
+	color: white;
+	font-family:"Sixtyfour";
+	font-size: 60px;
+}
+
+#ideaButton {
+	
+	width: 200px;
+	border-radius: 15px;
+	background-color: deeppink;
+	color: white;
+	border: white solid 4px;
+	font-family:"Anybody";
+	margin-left: 1100px;
+	font-size: 20px;
+	margin-top: 10px;
+	border-style: outset;
+	
+}
+
+textarea{
+	
+	width: 1300px;
+	margin-left: 10px;
+}
+
+#likersDiv{
+	
+	margin-top: 100px;
+}
+
+
+table{
+	
+	font-family:"Anybody";
+	font-size: 20px;
+}
+
+
+#likersLink {
+	
+	color: deeppink;
+}
+
+#aliasRow{
+	
+	width: 400px;
+}
+
+
+#inputBox{
+	
+	height: 100px;
+	font-family:"Anybody";
+	font-size: 30px;
+	
+}
+
+#printedIdea{
+	
+	height: 100%;
+	border: solid black 4px;
+	border-radius: 15px;
+	padding: 10px 0px 30px 10px;
+	justify-content: center;
+	background-color: black;
+	color: deeppink;
+	font-family:"Anybody";
+	font-size: 30px;
+}

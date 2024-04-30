@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+
+
+body {
+	
+	background-color: lightblue;
+}
+
+
+h1 {
+	
+	color: white;
+	font-family:"Sixtyfour";
+}
+
+
+h2{
+	font-family:"Anybody";
+	color: deeppink;
+	margin-top: 30px;
+}
+
+h3{
+	font-family:"Anybody";
+	font-weight: 500;
+}
+
+
+#loginBox {
+	
+	border: solid 10px black;
+	display: flex;
+	justify-content: space-between;
+	height: 500px;
+	gap: 20px;
+	padding:10px;
+	align-items: center;
+	
+}
+
+
+.label{
+	
+	color: deeppink;
+	font-family:"Anybody";
+	
+}
+
+#lButton, #sButton {
+	
+	border: solid 4px deeppink;
+	border-color: deeppink;
+	border-radius: 15px;
+	width: 400px;
+	justify-content: center;
+	margin-left: 80px;
+	font-family:"Anybody";
+	font-weight: 700;
+}
+
+#sButton{
+	
+	margin-left: 120px;
+}
+
+
+#loginH{
+	
+	margin-top: 17px;
+}
+
+.registerContainer{
+	
+	border: solid 10px black;
+	width: 700px;
+	height: 400px;
+	padding: 10px;
+	border-radius: 5px;
+	margin-top: 5px;
+
+}
+
+#loginContainer{
+	
+	border: solid 10px black;
+	width: 600px;
+	height: 400px;
+	padding: 10px;
+	
+}

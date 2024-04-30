@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+#header{
+	
+	display: flex;
+	justify-content: right;
+	padding: 10px;
+
+}
+
+.headerLinks{
+	
+	color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+
+#userName{
+	
+	color: deeppink;
+ 	font-family:"Anybody";
+	font-size: 60px;
+	font-weight: bold;
+	
+}
+
+.userInfo{
+	
+	color:deeppink;
+}
+
+body {
+	
+	background-color: lightblue;
+}
+
+h4{
+	
+	font-family:"Anybody";
+}
+
+h2 {
+	
+	color: white;
+	font-family:"Anybody";
+	font-weight: bold;
+}
+
+.card{
+	
+	background-color: black;
+	color: white;
+	
+}
+
+#pTag{
+	
+	color:white;
+	font-family:"Sixtyfour";
+	font-size: 40px;
+	font-weight: bold;
+}

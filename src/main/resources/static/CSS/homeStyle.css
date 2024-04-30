@@ -1,0 +1,137 @@
+@charset "UTF-8";
+
+body {
+	
+	background-color: lightblue;
+
+}
+
+
+h1{
+	color: deeppink;
+	font-family: Sixtyfour;
+	font-size: 60px;
+
+}
+
+.postedIdea {
+	
+	border: black 5px;
+	background-color: white;
+	border-radius: 15px;
+	padding: 10px;
+	width: 1200px;
+	border-style: outset;
+}
+
+
+#printedIdea {
+	
+	height: 80%;
+	border: solid deeppink 4px;
+	border-radius: 15px;
+	padding: 10px 0px 30px 10px;
+	justify-content: center;
+	background-color: black;
+	color: white;
+	font-family:"Anybody";
+	font-size: 20px;
+	border-style: outset;
+	
+}
+
+#nameLink{
+	
+	color: deeppink;
+	font-size: 20px;
+	font-family:"Anybody";
+	margin-left: 10px;
+	
+}
+
+#userSays{
+	
+	font-family:"Anybody";
+}
+
+
+#ideaBox{
+	
+	width: 1200px;
+	margin-bottom: 10px;
+	font-family:"Anybody";
+	height: 60px;
+	border-style: outset;
+	
+}
+
+#ideaButton{
+	
+	width: 200px;
+	border-radius: 15px;
+	background-color: deeppink;
+	color: white;
+	border: white solid 4px;
+	font-family:"Anybody";
+	margin-left: 999px;
+	font-size: 20px;
+	border-style: outset;
+	
+}
+
+.actionButtons {
+	
+	display: flex;
+	justify-content: space-between;
+	
+}
+
+#xbutton{
+	
+	position: relative;
+ 	bottom: 115px;
+ 	left: 30px;
+	border: white solid 4px;
+	width: 60px;
+	border-radius: 15px;
+	border-style: outset;
+	
+}
+
+
+#likeThis{
+	
+	margin-left: 30px;
+	margin-right: 30px;
+
+}
+
+#thumb {
+	
+	font-size: 30px;
+}
+
+#updateButton{
+	
+	margin-top: 6px;
+	color: deeppink;
+	font-weight: bold;
+	
+}
+
+
+
+#header{
+	
+	display: flex;
+	align-items: center;
+}
+
+#logoutLink{
+	
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 1120px;
+
+}
